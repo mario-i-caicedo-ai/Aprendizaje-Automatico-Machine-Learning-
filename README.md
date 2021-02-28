@@ -1,3 +1,3 @@
 # Machine Learning
 
-## El objetivo de este repo consiste en presntar cuadernos jupyter con explicaciones pedagógicas in extenso
+## El objetivo de este repo consiste en publicar/presentar cuadernos jupyter creados en COLAB y que contienen explicaciones pedagógicas in extenso
