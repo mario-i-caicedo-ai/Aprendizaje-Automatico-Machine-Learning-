@@ -4,9 +4,9 @@
 
 ## En la medida de lo posible, se mostrarán los métodos matemáticos que soportan las técnicas de ML que se presenten.
 
-## La oresntación será en términos de cuadernos (notebooks) jupyter con códigos en Python.
+## La presntación será en términos de cuadernos (notebooks) jupyter con códigos en Python extensamente documentados.
 
-## No es necesario bajar (download) los cuadernos, al hacer click en el cutema de su preferencia será dirigido al cuaderno y allí verá un botón pde enlace con COLAB, al haceer click allí, el cuaderno se abrirá para usted y será almacenado en su Google Drive
+## No es necesario bajar (download) los cuadernos, al hacer click en el cutema de su preferencia será dirigido al cuaderno y allí verá un botón de enlace con COLAB, al haceer click allí, el cuaderno se abrirá para usted y será almacenado en su Google Drive
 
 ## Si nunca ha usado COLAB, le ''cuento'' que COLAB es un ambiente CLOUD que le provee de una máquina virtual (Linux) en la cuál puede correr los cudernos.
 
