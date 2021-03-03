@@ -8,13 +8,13 @@
 
 * No es necesario bajar (download) los cuadernos, al hacer click en el cutema de su preferencia será dirigido al cuaderno y allí verá un botón de enlace con COLAB, al haceer click allí, el cuaderno se abrirá para usted y será almacenado en su Google Drive
 
-* Si nunca ha usado COLAB, le ''cuento'' que COLAB es un ambiente CLOUD que le provee de una máquina virtual (Linux) en la cuál puede correr los cudernos.
+* Si nunca ha usado COLAB, le ''cuento'' que COLAB es un ambiente CLOUD que le provee de una máquina virtual (Linux) en la cuál puede correr los cuadernos.
 
 * Cada cuaderno tiene dos tipos de áreas (denominadas celdas), unas contienen texto en lenguaje markdown y las otras, código. Para ejecutar una celda de código, basta con hacer click e, el espacio reservado para ello justo a la izquierda de la celda.
 
-* COLAB, como cualquier aplicació, tiene un pop menu que es batnte autoexplicativo.
+* COLAB, como cualquier aplicación, tiene un pop menu que es bastante autoexplicativo.
 
-* SI tiene cualquier observación que pueda sr útil para mejorar estos contenidos, no dude en escribirme a micaicedo60@gamil.com
+* SI tiene cualquier observación que pueda ser útil para mejorar estos contenidos, no dude en escribirme a micaicedo60@gamil.com
 
 * **Cuadernos** 
 
