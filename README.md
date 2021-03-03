@@ -16,6 +16,6 @@
 
 * SI tiene cualquier observación que pueda sr útil para mejorar estos contenidos, no dude en escribirme a micaicedo60@gamil.com
 
-* Para acceder a los cuadernos o cualquier otra información relacinada con ellos, haga click en los enlaces que encontrará a continuación 
+* **Cuadernos** 
 
-[Regresión Lineal Simple](notebooks/fit_line.ipynb)
+1. [Regresión Lineal Simple](notebooks/fit_line.ipynb)
