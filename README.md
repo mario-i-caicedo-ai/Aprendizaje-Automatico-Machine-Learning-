@@ -14,7 +14,7 @@
 
 * COLAB, como cualquier aplicació, tiene un pop menu que es bastante autoexplicativo.
 
-* Si tiene cualquier observación que pueda ser útil para mejorar estos contenidos, no dude en escribirme a micaicedo60@gamil.com
+* Si tiene cualquier observación que pueda ser útil para mejorar estos contenidos, no dude en escribirme a micaicedo60@gmail.com
 
 * **Cuadernos** 
 
