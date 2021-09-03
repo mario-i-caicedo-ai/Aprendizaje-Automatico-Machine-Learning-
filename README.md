@@ -20,7 +20,7 @@
 
 1.  [Regresión Lineal](notas/Regresi_n_Lineal_I.pdf)
 
-2.  [Regresión Lineal Aspectos Prácticos](notas/fit_line.ipynb)
+2.  [Regresión Lineal Aspectos Prácticos](notas/RegresionLienal_II.pdf)
 * **Cuadernos** 
 
 1. [Regresión Lineal Simple](notebooks/fit_line.ipynb)
