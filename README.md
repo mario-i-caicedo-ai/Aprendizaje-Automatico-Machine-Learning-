@@ -20,7 +20,7 @@
 
 1.  [Introducción al Aprendizaje Estadístico](notas/Introducci_n_al_Aprendizaje_Estad_stico.pdf)
 
-2.  [Regresión Lineal](notas/Regresi_n_Lineal_I.pdf)
+2.  [Regresión Lineal](notas/Regresi_n_Lineal_Un_Problema_de_ML.pdf)
 
 3.  [Regresión Lineal Aspectos Prácticos](notas/RegresionLienal_II.pdf)
 
